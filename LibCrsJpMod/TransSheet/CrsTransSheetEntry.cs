@@ -1,11 +1,8 @@
 ﻿namespace LibCrsJpMod.TransSheet
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-
+    /// <summary>
+    /// 翻訳シートエントリー
+    /// </summary>
     public class CrsTransSheetEntry
     {
         public CrsTransSheetEntry() { }

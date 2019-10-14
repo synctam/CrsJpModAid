@@ -1,15 +1,14 @@
 ﻿namespace LibCrsJpMod.TransSheet
 {
-    using System;
-    using System.Collections.Generic;
     using System.IO;
-    using System.Linq;
     using System.Text;
-    using System.Threading.Tasks;
     using CsvHelper;
     using CsvHelper.Configuration;
     using LibCrsJpMod.TransData;
 
+    /// <summary>
+    /// 翻訳シート入出力
+    /// </summary>
     public class CrsTransSheetDao
     {
         /// <summary>
